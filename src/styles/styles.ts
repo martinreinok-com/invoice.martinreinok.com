@@ -137,19 +137,19 @@ const styles: CSSClasses = {
   },
 
   'mt-60': {
-    marginTop: '60px',
-  },
-
-  'mt-40': {
-    marginTop: '40px',
-  },
-
-  'mt-30': {
     marginTop: '30px',
   },
 
+  'mt-40': {
+    marginTop: '15px',
+  },
+
+  'mt-30': {
+    marginTop: '10px',
+  },
+
   'mt-20': {
-    marginTop: '20px',
+    marginTop: '8px',
   },
 
   'mt-18': {
@@ -169,23 +169,23 @@ const styles: CSSClasses = {
   },
 
   'mb-5': {
-    marginBottom: '5px',
+    marginBottom: '3px',
   },
 
   'mb-10': {
-    marginBottom: '10px',
+    marginBottom: '5px',
   },
 
   'p-4-8': {
-    padding: '4px 8px',
+    padding: '2px 6px',
   },
 
   'p-5': {
-    padding: '5px',
+    padding: '3px',
   },
 
   'pb-10': {
-    paddingBottom: '10px',
+    paddingBottom: '5px',
   },
 
   right: {
@@ -234,16 +234,16 @@ const styles: CSSClasses = {
 
   page: {
     fontFamily: 'Nunito',
-    fontSize: '13px',
+    fontSize: '12px',
     color: '#555',
-    paddingTop: "40px",
-    paddingLeft: "35px",
-    paddingRight: "35px",
-    paddingBottom: "30px"
+    paddingTop: "20px",
+    paddingLeft: "20px",
+    paddingRight: "20px",
+    paddingBottom: "15px"
   },
 
   span: {
-    padding: '4px 12px 4px 0',
+    padding: '2px 8px 2px 0',
   },
 
   logo: {
